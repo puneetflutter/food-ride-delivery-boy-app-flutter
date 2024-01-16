@@ -1,0 +1,239 @@
+{
+  "project_info": {
+    "project_number": "380204076789",
+    "firebase_url": "https://foodride-73f43-default-rtdb.firebaseio.com",
+    "project_id": "foodride-73f43",
+    "storage_bucket": "foodride-73f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380204076789:android:294829f9f27720e245ffbc",
+        "android_client_info": {
+          "package_name": "com.example.demoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380204076789-389ctofij9elgnaj7dvqju5dng54ugej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXKBvqtIyP1_EDRXEad1hoFEUv_anZLV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380204076789-389ctofij9elgnaj7dvqju5dng54ugej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380204076789:android:6ec93d781d16433e45ffbc",
+        "android_client_info": {
+          "package_name": "com.gaminigroup.foodride.deliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380204076789-afjncb9n7ak5eeuu7h61lspi8tfk3k40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodride.deliveryapp",
+            "certificate_hash": "925f284560f686fca845bc849c4589ae29ac7f81"
+          }
+        },
+        {
+          "client_id": "380204076789-drc548f9hrp9f3pnrnijgn4gbnth4t6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodride.deliveryapp",
+            "certificate_hash": "a8df97ba8654c751221f1f5e4debd67bca190bdc"
+          }
+        },
+        {
+          "client_id": "380204076789-ita5f8vlfku7q2t3m7aiogcsfjltspp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodride.deliveryapp",
+            "certificate_hash": "c5d0c1877a1682fa2578c3851e16d4d15110d35e"
+          }
+        },
+        {
+          "client_id": "380204076789-389ctofij9elgnaj7dvqju5dng54ugej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXKBvqtIyP1_EDRXEad1hoFEUv_anZLV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380204076789-389ctofij9elgnaj7dvqju5dng54ugej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380204076789:android:a0d28a6f18d4e5ba45ffbc",
+        "android_client_info": {
+          "package_name": "com.gaminigroup.foodride.restaurantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380204076789-6vcmgche820fvr2m43v8tjh8qirj6atd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodride.restaurantapp",
+            "certificate_hash": "dedaabf9a7785b7ff788e540680386d9594e3571"
+          }
+        },
+        {
+          "client_id": "380204076789-8ao9bm2ln88plgsfph2t9vgv8r35i16u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodride.restaurantapp",
+            "certificate_hash": "d9f3ce9ce40c93705d1094ca3222239d30856bd4"
+          }
+        },
+        {
+          "client_id": "380204076789-gfdhss69aee6l4gfl1kbkv2ecpbaqihb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodride.restaurantapp",
+            "certificate_hash": "0120f68fdb984a1f7a9a9a2274f58eacfbdecad4"
+          }
+        },
+        {
+          "client_id": "380204076789-njg5a2e3u06ru68h5hdbl2o99uncgn29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodride.restaurantapp",
+            "certificate_hash": "c5d0c1877a1682fa2578c3851e16d4d15110d35e"
+          }
+        },
+        {
+          "client_id": "380204076789-rneerbsr4mk9n15uhc6rqk9gjvp149t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodride.restaurantapp",
+            "certificate_hash": "575cc9e40c1f32f45545326faf9b99470863fea8"
+          }
+        },
+        {
+          "client_id": "380204076789-389ctofij9elgnaj7dvqju5dng54ugej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXKBvqtIyP1_EDRXEad1hoFEUv_anZLV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380204076789-389ctofij9elgnaj7dvqju5dng54ugej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380204076789:android:c12410e03879ddae45ffbc",
+        "android_client_info": {
+          "package_name": "com.gaminigroup.foodrideuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380204076789-1j44ajjmpdqoevqce9p8ibin15aram4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodrideuser",
+            "certificate_hash": "0120f68fdb984a1f7a9a9a2274f58eacfbdecad4"
+          }
+        },
+        {
+          "client_id": "380204076789-2qvjbudq4j1ls733ia9fvc3ua8u9hut5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodrideuser",
+            "certificate_hash": "d9f3ce9ce40c93705d1094ca3222239d30856bd4"
+          }
+        },
+        {
+          "client_id": "380204076789-56gu7sps9dn18j2rmfmf8jpf9g282ca8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodrideuser",
+            "certificate_hash": "bc93f66e17f981256f7875f9cfb05033261b5ae4"
+          }
+        },
+        {
+          "client_id": "380204076789-5uq5v27rgqd0f13l436vvd3igic8ldh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodrideuser",
+            "certificate_hash": "66be1da24f21a1f99c1f8986e07916c93aeec30a"
+          }
+        },
+        {
+          "client_id": "380204076789-absc83j1qal1mmalhqqbk6ujchmd0tst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodrideuser",
+            "certificate_hash": "4a6c937c9c81498c0a11fe399fd27e35cb7441de"
+          }
+        },
+        {
+          "client_id": "380204076789-j8ph8bn6rl5og8ci30r6fss1dqe247rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaminigroup.foodrideuser",
+            "certificate_hash": "c5d0c1877a1682fa2578c3851e16d4d15110d35e"
+          }
+        },
+        {
+          "client_id": "380204076789-389ctofij9elgnaj7dvqju5dng54ugej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXKBvqtIyP1_EDRXEad1hoFEUv_anZLV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380204076789-389ctofij9elgnaj7dvqju5dng54ugej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
